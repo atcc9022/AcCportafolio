@@ -1,0 +1,149 @@
+footer{
+    background-color: #5500AA;
+
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+
+}
+
+i{
+    color: white;
+    margin-top: 15px;
+}
+// ________________________________________
+
+@media (min-width: 992px) {
+
+    footer{
+        background-color: #5500AA;
+
+        display: flex;
+        justify-content:space-around;
+        flex-direction: row;
+        margin: 0;
+    }
+    
+    i{
+        color: white;
+        margin-top: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ___________________________inicio
+
+.footer__inicio{
+    background-color: #5500AA;
+    margin-top: 800px;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+// __________________________________
+
+
+@media (min-width: 992px) {
+
+}
+
+// __________________________________audiovisual
+
+.footer__audiovisual{
+    background-color: #5500AA;
+    margin-top: 650%;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+i{
+    color: white;
+    margin-top: 15px;
+}
+
+// __________________________________
+
+@media (min-width: 992px) {
+    .footer__audiovisual{
+        background-color: #5500AA;
+        display: flex;
+        justify-content:space-around;
+        flex-direction: row;
+        margin: 0;
+        margin-top: 210%;
+    }
+    
+    i{
+        color: white;
+        margin-top: 15px;
+    }
+}
+
+// ______________________________________diseño
+
+.footer__diseñografico{
+    background-color: #5500AA;
+    margin-top: 20%;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+i{
+    color: white;
+    margin-top: 15px;
+}
+
+// ___________________________________________
+
+@media (min-width: 992px) {
+    .footer__diseñografico{
+        background-color: #5500AA;
+        display: flex;
+        justify-content:space-around;
+        flex-direction: row;
+        margin: 0;
+        margin-top: 2%;
+    }
+    
+    i{
+        color: white;
+        margin-top: 15px;
+    }
+}
+
+// ________________________________________contacto
+
+.footer__contact{
+    background-color: #5500AA;
+    margin-top: 5%;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+i{
+    color: white;
+    margin-top: 15px;
+}
+
+// ________________________________________
